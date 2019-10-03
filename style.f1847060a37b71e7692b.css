@@ -322,6 +322,21 @@ a:visited {
     }
 }
 
+/**
+ * Wrapper Nav Options
+ *
+ * Defines the position of the navigation links.
+ */
+
+.wrapper-nav-options {
+    align-items: baseline;
+    display: flex;
+}
+
+.wrapper-nav-options .nav-option:nth-child(n + 2) {
+    margin-left: 10px;
+}
+
 html,
 body {
     font-family: 'Lato', monospace;
