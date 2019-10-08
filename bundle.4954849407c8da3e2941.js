@@ -86,6 +86,17 @@
 /************************************************************************/
 /******/ ({
 
+/***/ "./data/equipe.json":
+/*!**************************!*\
+  !*** ./data/equipe.json ***!
+  \**************************/
+/*! exports provided: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, default */
+/***/ (function(module) {
+
+eval("module.exports = JSON.parse(\"[{\\\"nome\\\":\\\"Thayanne Luiza\\\",\\\"urlGithub\\\":\\\"https://github.com/thayannevls\\\"},{\\\"nome\\\":\\\"Fanny Vieira\\\",\\\"urlGithub\\\":\\\"https://github.com/fanny\\\"},{\\\"nome\\\":\\\"Héricles Emanuel\\\",\\\"urlGithub\\\":\\\"https://github.com/hericlesme\\\"},{\\\"nome\\\":\\\"José Renan\\\",\\\"urlGithub\\\":\\\"https://github.com/JoseRenan\\\"},{\\\"nome\\\":\\\"José Robson\\\",\\\"urlGithub\\\":\\\"https://github.com/JRobsonJr\\\"},{\\\"nome\\\":\\\"Juan Barros\\\",\\\"urlGithub\\\":\\\"https://github.com/JuanBarros2\\\"},{\\\"nome\\\":\\\"Julio Guedes\\\",\\\"urlGithub\\\":\\\"https://github.com/juliobguedes\\\"},{\\\"nome\\\":\\\"Lucas Medeiros\\\",\\\"urlGithub\\\":\\\"https://github.com/lucasmedeiros\\\"},{\\\"nome\\\":\\\"Matheus Alves\\\",\\\"urlGithub\\\":\\\"https://github.com/alvesmatheus\\\"},{\\\"nome\\\":\\\"Paulo Leitão\\\",\\\"urlGithub\\\":\\\"https://github.com/paulojbleitao\\\"},{\\\"nome\\\":\\\"Pedro Espíndula\\\",\\\"urlGithub\\\":\\\"https://github.com/pedroespindula\\\"},{\\\"nome\\\":\\\"Ivyna Santino\\\",\\\"urlGithub\\\":\\\"https://github.com/ivynasantino\\\"}]\");\n\n//# sourceURL=webpack:///./data/equipe.json?");
+
+/***/ }),
+
 /***/ "./node_modules/@babel/runtime/helpers/esm/extends.js":
 /*!************************************************************!*\
   !*** ./node_modules/@babel/runtime/helpers/esm/extends.js ***!
@@ -806,6 +817,17 @@ eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=webpack:///./src/
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=webpack:///./src/components/projects/ProjectsPage.css?./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/css-loader");
+
+/***/ }),
+
+/***/ "./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/css-loader/index.js!./src/components/team/teamPage.css":
+/*!**************************************************************************************************************************!*\
+  !*** ./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/css-loader!./src/components/team/teamPage.css ***!
+  \**************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// extracted by mini-css-extract-plugin\n\n//# sourceURL=webpack:///./src/components/team/teamPage.css?./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/css-loader");
 
 /***/ }),
 
@@ -3484,7 +3506,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var reac
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-router-dom */ \"./node_modules/react-router-dom/es/index.js\");\n/* harmony import */ var _projects_ProjectsPage__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../projects/ProjectsPage */ \"./src/components/projects/ProjectsPage.js\");\n/* harmony import */ var _joinus_JoinUsPage__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../joinus/JoinUsPage */ \"./src/components/joinus/JoinUsPage.js\");\n\n\n\n\n\nconst Routes = () => react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__[\"Switch\"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__[\"Route\"], {\n  exact: true,\n  path: \"/\",\n  component: _projects_ProjectsPage__WEBPACK_IMPORTED_MODULE_2__[\"default\"]\n}), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__[\"Route\"], {\n  path: \"/quem-somos\",\n  render: () => react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", null)\n}), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__[\"Route\"], {\n  path: \"/junte-se\",\n  component: _joinus_JoinUsPage__WEBPACK_IMPORTED_MODULE_3__[\"default\"]\n}), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__[\"Route\"], {\n  path: \"/contribuir\",\n  render: () => react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", null)\n}));\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Routes);\n\n//# sourceURL=webpack:///./src/components/app/Routes.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-router-dom */ \"./node_modules/react-router-dom/es/index.js\");\n/* harmony import */ var _projects_ProjectsPage__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../projects/ProjectsPage */ \"./src/components/projects/ProjectsPage.js\");\n/* harmony import */ var _joinus_JoinUsPage__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../joinus/JoinUsPage */ \"./src/components/joinus/JoinUsPage.js\");\n/* harmony import */ var _team_TeamPage__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../team/TeamPage */ \"./src/components/team/TeamPage.js\");\n\n\n\n\n\n\nconst Routes = () => react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__[\"Switch\"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__[\"Route\"], {\n  exact: true,\n  path: \"/\",\n  component: _projects_ProjectsPage__WEBPACK_IMPORTED_MODULE_2__[\"default\"]\n}), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__[\"Route\"], {\n  path: \"/quem-somos\",\n  render: _team_TeamPage__WEBPACK_IMPORTED_MODULE_4__[\"default\"]\n}), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__[\"Route\"], {\n  path: \"/junte-se\",\n  component: _joinus_JoinUsPage__WEBPACK_IMPORTED_MODULE_3__[\"default\"]\n}));\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Routes);\n\n//# sourceURL=webpack:///./src/components/app/Routes.js?");
 
 /***/ }),
 
@@ -3612,6 +3634,41 @@ eval("\nvar content = __webpack_require__(/*! !../../../node_modules/mini-css-ex
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return ProjectsPage; });\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _lib_github__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../lib/github */ \"./src/lib/github.js\");\n/* harmony import */ var _commons_repository_RepositoryGrid__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../commons/repository/RepositoryGrid */ \"./src/components/commons/repository/RepositoryGrid.js\");\n/* harmony import */ var _ProjectsPage_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./ProjectsPage.css */ \"./src/components/projects/ProjectsPage.css\");\n/* harmony import */ var _ProjectsPage_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_ProjectsPage_css__WEBPACK_IMPORTED_MODULE_3__);\nfunction _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }\n\n\n\n\n\n\nfunction updateListState(data, cursor) {\n  return state => ({\n    repositoryList: [...state.repositoryList, ...data],\n    cursor\n  });\n}\n\nclass ProjectsPage extends react__WEBPACK_IMPORTED_MODULE_0__[\"Component\"] {\n  constructor(...args) {\n    super(...args);\n\n    _defineProperty(this, \"state\", {\n      repositoryList: [],\n      cursor: null,\n      loading: true\n    });\n\n    _defineProperty(this, \"updateRepositoryList\", () => {\n      const {\n        cursor\n      } = this.state;\n      this.setState({\n        loading: true\n      });\n      Object(_lib_github__WEBPACK_IMPORTED_MODULE_1__[\"default\"])(cursor).then(({\n        repos,\n        lastCursor\n      }) => {\n        this.setState(updateListState(repos, lastCursor));\n        this.setState({\n          loading: false\n        });\n      });\n    });\n  }\n\n  componentDidMount() {\n    this.updateRepositoryList();\n  }\n\n  render() {\n    const {\n      repositoryList,\n      loading\n    } = this.state;\n    return react__WEBPACK_IMPORTED_MODULE_0__[\"createElement\"](\"div\", null, react__WEBPACK_IMPORTED_MODULE_0__[\"createElement\"](_commons_repository_RepositoryGrid__WEBPACK_IMPORTED_MODULE_2__[\"default\"], {\n      repositories: repositoryList\n    }), react__WEBPACK_IMPORTED_MODULE_0__[\"createElement\"](\"div\", {\n      className: \"footer\"\n    }, react__WEBPACK_IMPORTED_MODULE_0__[\"createElement\"](\"button\", {\n      type: \"button\",\n      className: \"show-more-btn\",\n      onClick: this.updateRepositoryList\n    }, loading ? react__WEBPACK_IMPORTED_MODULE_0__[\"createElement\"](\"img\", {\n      className: \"loader\",\n      alt: \"loader\"\n    }) : react__WEBPACK_IMPORTED_MODULE_0__[\"createElement\"](\"h2\", {\n      className: \"show-more-btn-text\"\n    }, \"Ver mais\"))));\n  }\n\n}\n\n//# sourceURL=webpack:///./src/components/projects/ProjectsPage.js?");
+
+/***/ }),
+
+/***/ "./src/components/team/Member.js":
+/*!***************************************!*\
+  !*** ./src/components/team/Member.js ***!
+  \***************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _teamPage_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./teamPage.css */ \"./src/components/team/teamPage.css\");\n/* harmony import */ var _teamPage_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_teamPage_css__WEBPACK_IMPORTED_MODULE_1__);\n\n\n\nconst Member = ({\n  name,\n  urlGithub\n}) => react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"div\", {\n  className: \"member\"\n}, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"a\", {\n  href: urlGithub\n}, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"img\", {\n  className: \"member-image\",\n  src: `${urlGithub}.png`,\n  alt: urlGithub\n})), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"figcaption\", {\n  className: \"member-name\"\n}, name));\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Member);\n\n//# sourceURL=webpack:///./src/components/team/Member.js?");
+
+/***/ }),
+
+/***/ "./src/components/team/TeamPage.js":
+/*!*****************************************!*\
+  !*** ./src/components/team/TeamPage.js ***!
+  \*****************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ \"./node_modules/react/index.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _Member__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Member */ \"./src/components/team/Member.js\");\n/* harmony import */ var _data_equipe_json__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../data/equipe.json */ \"./data/equipe.json\");\nvar _data_equipe_json__WEBPACK_IMPORTED_MODULE_2___namespace = /*#__PURE__*/__webpack_require__.t(/*! ../../../data/equipe.json */ \"./data/equipe.json\", 1);\n/* harmony import */ var _teamPage_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./teamPage.css */ \"./src/components/team/teamPage.css\");\n/* harmony import */ var _teamPage_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_teamPage_css__WEBPACK_IMPORTED_MODULE_3__);\n\n\n\n\n\nconst renderMembers = () => _data_equipe_json__WEBPACK_IMPORTED_MODULE_2__.map(member => react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"li\", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Member__WEBPACK_IMPORTED_MODULE_1__[\"default\"], member)));\n\nconst TeamPage = () => react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(\"ul\", {\n  className: \"team\"\n}, renderMembers());\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (TeamPage);\n\n//# sourceURL=webpack:///./src/components/team/TeamPage.js?");
+
+/***/ }),
+
+/***/ "./src/components/team/teamPage.css":
+/*!******************************************!*\
+  !*** ./src/components/team/teamPage.css ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("\nvar content = __webpack_require__(/*! !../../../node_modules/mini-css-extract-plugin/dist/loader.js!../../../node_modules/css-loader!./teamPage.css */ \"./node_modules/mini-css-extract-plugin/dist/loader.js!./node_modules/css-loader/index.js!./src/components/team/teamPage.css\");\n\nif(typeof content === 'string') content = [[module.i, content, '']];\n\nvar transform;\nvar insertInto;\n\n\n\nvar options = {\"hmr\":true}\n\noptions.transform = transform\noptions.insertInto = undefined;\n\nvar update = __webpack_require__(/*! ../../../node_modules/style-loader/lib/addStyles.js */ \"./node_modules/style-loader/lib/addStyles.js\")(content, options);\n\nif(content.locals) module.exports = content.locals;\n\nif(false) {}\n\n//# sourceURL=webpack:///./src/components/team/teamPage.css?");
 
 /***/ }),
 
